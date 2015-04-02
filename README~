@@ -4,3 +4,12 @@ Replace this README file with notes on your implementation.
 Mentions any special features or limitations.
 
 partner1 Xingjian
+partner2 baixiao
+
+My implementation has no bug.
+trivial test
+<<<<<<< HEAD
+1. I wrote a report about implementation.
+=======
+1. I wrote read_command.c
+>>>>>>> master
